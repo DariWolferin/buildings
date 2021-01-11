@@ -258,7 +258,7 @@ body {
   .projects__map {
     padding: 50px 100px;
     margin-right: 20px;
-    background: rgba(1, 1, 1, 0.8) url("../img/map(1).png") center/cover no-repeat;
+    background: rgba(1, 1, 1, 0.8) url("../img/map(1).webp") center/cover no-repeat;
     background-blend-mode: multiply; }
     .projects__map p {
       color: #fff;
