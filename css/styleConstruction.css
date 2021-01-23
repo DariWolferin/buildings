@@ -1182,6 +1182,10 @@ body {
     transform: translateX(50%); }
   .main-slider__item h1, .main-slider__item p {
     letter-spacing: 2px; }
+  .main-slider__item_first {
+    background: rgba(0, 0, 0, 0.5) url(../img/slider1_bg3.webp) 70% 50% no-repeat; }
+  .main-slider__item_second {
+    background: rgba(0, 0, 0, 0.5) url(../img/slider1_bg4.webp) 30% 0 no-repeat; }
   .main-slider__content::before {
     left: 18px; }
   .main-slider__content::after {
